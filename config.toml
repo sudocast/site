@@ -96,7 +96,7 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
   [params.authors]
     [params.authors.Pery]
       name  = "Pery Lemke"
-      thumbnail = "img/host/pery.png"
+      thumbnail = "img/host/pery.jpg"
       bio = ""
       [params.authors.Pery.social]
         github = "perylemke"
