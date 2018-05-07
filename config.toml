@@ -96,7 +96,7 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
   [params.authors]
     [params.authors.Pery]
       name  = "Pery Lemke"
-      thumbnail = "img/host/pery.jpg"
+      thumbnail = "img/host/pery.png"
       bio = ""
       [params.authors.Pery.social]
         github = "perylemke"
@@ -107,7 +107,7 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
         youtube = "testafterdeploy"
     [params.authors.Mario]
       name = "Mário Silveira"
-      thumbnail = "https://avatars0.githubusercontent.com/u/10747243?s=400&v=4"
+      thumbnail = "img/host/mario.png"
       bio = ""
       [params.authors.Mario.social]
         twitter = "dermarios"
