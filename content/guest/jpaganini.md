@@ -1,10 +1,9 @@
 +++
 Title = "Jônatas Paganini"
-Twitter = ""
-Website = "http://www.google.com"
+Twitter = "jonatasdp"
+Website = "http://ideia.me/"
 Type = "guest"
-Facebook = ""
-Linkedin = ""
+Linkedin = "jonatasdp"
 GitHub = "jonatas"
 Thumbnail="img/guest/jonatas.png"
 Aka = ["jonatas", "jpaganini"]
