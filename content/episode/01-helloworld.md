@@ -1,22 +1,19 @@
 +++
-Description = "Bootstrapping alpha seed money scrum project. Business model canvas low hanging fruit series A financing release vesting period research & development market buzz network effects channels long tail client partner network pivot. Innovator market android buyer gamification. User experience gamification interaction design sales. Buyer stealth research & development sales business-to-business social media graphical user interface. Market incubator hypotheses seed money release low hanging fruit infographic responsive web design branding technology interaction design buyer. Ramen rockstar gen-z buzz supply chain first mover advantage crowdsource mass market entrepreneur user experience advisor business-to-business twitter strategy. Termsheet low hanging fruit lean startup crowdfunding customer. Buzz bandwidth growth hacking business plan channels incubator technology learning curve strategy. Disruptive sales founders paradigm shift stock growth hacking graphical user interface customer iPhone channels funding."
-aliases = ["/12"]
-author = "Matt"
+Description = "Olá mundo! =)<br/><br/> Essa é a primeira edição do Sudocast, o podcast de tecnologia mais lindo do universo.<br/><br/> Para manter a tradição no mundo do desenvolvimento nada como uma edição 'Hello World', geralmente o primeiro programa feito para quem está aprendendo alguma linguagem.<br/><br/>E nesse programa Pery Lemke, Mário Silveira e Jônatas Paganini conversam sobre o mundo do desenvolvimento de software e como eles se envolveram nesse mundo fascinante."
+aliases = ["/1"]
+author = "Pery Lemke & Mário Silveira"
 date = "2016-09-25T04:10:01-05:00"
-episode = "12"
-episode_image = "img/episode/default.jpg"
-episode_banner = "img/episode/default-banner.jpg"
+episode = "1"
+episode_image = ""
+episode_banner = ""
 explicit = "no"
-guests = ["teste", "testa"]
-sponsors = ["bluthcompany"]
-images = ["img/episode/default-social.jpg"]
-podcast_duration = "1:08:22"
-podcast_file = "arrested-devops-podcast-episode053.mp3"
-podcast_bytes = "123456789"
-title = "Back to School"
+guests = ["jpaganini"]
+sponsors = [""]
+images = [""]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+title = "Ep. 0001 - Hello World!"
 youtube = ""
 truncate = ""
-
 +++
-
-[@perylemke](https://www.twitter.com/perylemke)
