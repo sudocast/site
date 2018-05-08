@@ -16,6 +16,4 @@ podcast_bytes = "49342070"
 title = "Ep. 0011 – #OPodcastÉDelas!"
 youtube = ""
 truncate = ""
-
 +++
-[@perylemke](https://www.twitter.com/perylemke)

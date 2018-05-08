@@ -4,15 +4,13 @@ title = "SudoCast"
 theme = "castanet"
 # googleAnalytics = "UA-100789009-1"
 disqusShortname = "perylemke"
-themesdir = "../.."
+themesdir = "./themes"
 paginate = "9"
-
 
 [permalinks]
     page = "/:filename/"
     about = "/:filename/"
     episode = "/:filename/"
-
 
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
@@ -61,7 +59,7 @@ enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
 # about_logo = "/img/hugocast.png"
-copyright_notice = "Copyright 2018 [Pery Lemke](https://www.mattstrattion.io)"
+copyright_notice = "Copyright 2018 [Pery Lemke and Mário Silveira](http://www.sudocast.com.br)"
 itunes_subscribe = "https://itunes.apple.com/br/podcast/sudocast/id1229109698?mt=2"
 #android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
 #google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
