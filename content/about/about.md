@@ -1,8 +1,6 @@
 +++
-date = "2016-09-25T02:11:48-05:00"
+title = "about us"
 description = "about this site"
-title = "about"
+date = "2015-09-01"
+hosts = ["plemke", "msilveira"]
 +++
-
-## I love my podcast
-You should love it too

@@ -1,8 +1,8 @@
 +++
-Description = "Olá mundo! =)<br/><br/> Essa é a primeira edição do Sudocast, o podcast de tecnologia mais lindo do universo.<br/><br/> Para manter a tradição no mundo do desenvolvimento nada como uma edição 'Hello World', geralmente o primeiro programa feito para quem está aprendendo alguma linguagem.<br/><br/>E nesse programa [Pery Lemke](https://www.twitter.com/perylemke), [Mário Silveira](https://www.twitter.com/dermarios) e [Jônatas Paganini](https://www.twitter.com/jonatasdp) conversam sobre o mundo do desenvolvimento de software e como eles se envolveram nesse mundo fascinante."
+Description = "Olá mundo! =)<br/><br/> Essa é a primeira edição do Sudocast, o podcast de tecnologia mais lindo do universo.<br/><br/> Para manter a tradição no mundo do desenvolvimento nada como uma edição 'Hello World', geralmente o primeiro programa feito para quem está aprendendo alguma linguagem.<br/><br/> E nesse programa [Pery Lemke](https://www.twitter.com/perylemke), [Mário Silveira](https://www.twitter.com/dermarios) e [Jônatas Paganini](https://www.twitter.com/jonatasdp) conversam sobre o mundo do desenvolvimento de software e como eles se envolveram nesse mundo fascinante.<br/><br/> Abertura: [Cyclos](https://www.facebook.com/cyclosrocktrio/) - [Get Out](https://soundcloud.com/cyclosrocktrio/cyclos-get-out)"
 aliases = ["/1"]
 author = "Pery Lemke & Mário Silveira"
-date = "2016-09-25T04:10:01-05:00"
+date = "2017-04-23T04:10:01-05:00"
 episode = "1"
 episode_image = "img/episode/helloworld.jpg"
 episode_banner = "img/episode/helloworld.jpg"
